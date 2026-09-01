@@ -45,7 +45,8 @@ out/
 *.zip
 *.tar.gz
 *.rar
-
+*.build.gradle
+*.settings.gradle
 ### Exclusions ###
 !gradle/wrapper/gradle-wrapper.jar
 !**/src/main/**
