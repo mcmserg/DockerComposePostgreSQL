@@ -2,13 +2,15 @@ Thumbs.db*
 .DS_Store
 HELP.md
 .gradle
-gradlew.bat
-build.gradle
+
 build/
 ./idea
 ./gradle
 ./src
-
+build.gradle
+gradlew
+gradlew.bat
+settings.gradle
 
 ### STS ###
 .apt_generated
@@ -47,8 +49,8 @@ out/
 *.zip
 *.tar.gz
 *.rar
-*.build.gradle
-*.settings.gradle
+
+
 ### Exclusions ###
 !gradle/wrapper/gradle-wrapper.jar
 !**/src/main/**
